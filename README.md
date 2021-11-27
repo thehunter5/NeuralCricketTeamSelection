@@ -8,7 +8,7 @@ We have used https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset 
 We perform two experiments using each of the three networks-
 1. combining all the data together and using 80% of it for training and rest for testing
 2. taking season 1-7 together as the training set and season 8-9 for testing the predictions made using previous seasons
-Please refer to the file NNFL_flowchart.pdf to see the detail flow.
+Please refer to the file [NNFL_flowchart](/NNFL_flowchart.pdf) to see the detail flow.
 
 **Heuristics**-
 1. For each season :
